@@ -1,4 +1,5 @@
-# IBM-DATA-SCIENCE-PROEFESISONAL-CERTIFICATE-Captosne-Project #
+# IBM-DATA-SCIENCE-PROFESSIONAL-CERTIFICATE
+## Captosne-Project 
 
 
 
@@ -8,6 +9,4 @@ You are tasked with predicting if the first stage of the SpaceX Falcon 9 rocket 
 
 Therefore if you can accurately predict the likelihood of the first stage rocket landing successfully, you can determine the cost of a launch. With the help of your Data Science findings and models, the competing startup you have been hired by can make more informed bids against SpaceX for a rocket launch. 
 
-This course is the final course in the IBM Data Science Professional Certificate as well as the Applied Data Science with Python Specialization. It is expected that you have completed all of the prior courses in the specialization/certificate before starting this one, as it requires the application of the knowledge and skills taught in those courses. In this course, there will not be too much new learning, and instead, the focus will be on hands-on work to demonstrate what you have learned in the previous courses.
-
-If you choose to take this course and earn the Coursera course certificate, you will also earn an IBM digital badge upon successful completion of the course.
+This course is the final course in the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science).
